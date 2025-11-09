@@ -27,7 +27,6 @@ You can **reset** anytime to try again!
 ---
 
 ### 🚀 Live Demo
-*(Add link after deployment)*  
 Example: https://nnoxxy21.github.io/Emoji-Battle-And-FruitSorter/
 
 ---
