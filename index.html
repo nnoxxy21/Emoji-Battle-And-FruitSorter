@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Mini Games</title>
+</head>
+<body>
+    <div id="game-one">
+        <h1 id="emoji-game">Emoji Fighter</h1>
+        <div id="arena">
+            <h2 id="stage-el"></h2>
+        </div>
+        <button id="btn" onclick="startBattle()">Pick Fighters</button>
+    </div>
+    <div id="game-two">
+        <h1 id="fruits-game"> Fruits Basket</h1>
+        <div id="apple-shelf">
+            <h2 id="apple-el">🍎 🍊 🍎</h2>
+        </div>
+        <div id="orange-shelf">
+            <h2 id="orange-el">🍊 🍎</h2>
+        </div>
+        <button id="sort-btn" onclick="sortFruits()">Sort the Fruits</button>
+        <button id="reset-btn" onclick="resetFruits()">Reset</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

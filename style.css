@@ -1,0 +1,126 @@
+﻿#game-one {
+    background-color: rgba(255, 0, 0, 0.26);
+    border-radius: 25px 25px 0 0;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+#emoji-game {
+    font-family: "Cascadia Code", cursive;
+    text-align: center;
+}
+
+#arena {
+    background-color: #90e7c5;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 10px 200px;
+    border-radius: 10px;
+}
+
+#stage-el {
+    font-size: 80px;
+}
+
+#btn {
+    font-family: "Cascadia Code", cursive;
+    margin: 10px auto;
+    display: block;
+    padding: 10px 20px;
+    font-size: 24px;
+    border: 2px solid #ff0000;
+}
+#btn:hover {
+    background-color: #ff0000;
+    color: white;
+    cursor: pointer;
+    border: 2px solid #031f1f;
+}
+button:active {
+    transform: scale(1.02);
+}
+#game-two {
+    background-color: rgba(182, 253, 171, 0.93);
+    border-radius: 0 0;
+    padding: 8px;
+    border-top: 2px solid #0b9a6f;
+}
+
+#fruits-game {
+    margin: 40px auto 0 auto;
+    font-family: "Cascadia Code", cursive;
+    text-align: center;
+}
+
+#apple-shelf {
+    background-color: #383005;
+    border: 4px dotted #9a710b;
+    border-radius: 10px;
+    padding: 0;
+    margin: 10px 300px;
+    text-align: center;
+    font-size: 35px;
+}
+
+#apple-el {
+    background-color: #fabd01;
+}
+
+#apple-el:hover {
+    background-color: #031f1f;
+}
+
+#apple-shelf:hover {
+    background-color: #eadfdf;
+    border: 2px dotted #1c1a14;
+}
+
+#orange-shelf {
+    background-color: #254418;
+    border: 4px dotted #9a710b;
+    border-radius: 10px;
+    padding: 0;
+    margin: 10px 300px;
+    text-align: center;
+    font-size: 35px;
+}
+
+#orange-shelf:hover {
+    background-color: #eadfdf;
+    border: 2px dotted #1c1a14;
+}
+
+#orange-el {
+    background-color: #01fa0d;
+}
+
+#orange-el:hover {
+    background-color: #031f1f;
+}
+
+#sort-btn {
+    font-family: "Cascadia Code", cursive;
+    padding: 10px 20px;
+    font-size: 24px;
+    border: 2px solid #56fd02;
+    margin: 18px auto 5px auto;
+   display: block;
+}
+
+#sort-btn:hover {
+    background-color: #2cfc15;
+    color: white;
+}
+
+#reset-btn {
+    font-family: "Cascadia Code", cursive;
+    padding: 5px 20px;
+    font-size: 16px;
+    display: block;
+    margin: 5px auto;
+}
+
+#reset-btn:hover {
+    background-color: #000202;
+    color: white;
+}
